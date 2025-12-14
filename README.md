@@ -1,4 +1,4 @@
-# simu_it_aging
+# IT Aging
 Simulate the carbon impact of IT depending on:
 - the lifetime for embedded footprint
 - the carbon intensity for the usage footprint
