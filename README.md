@@ -1,5 +1,7 @@
 # simu_it_aging
-Simulate the carbon impact of IT depending on the speed of replacement
+Simulate the carbon impact of IT depending on:
+- the lifetime for embedded footprint
+- the carbon intensity for the usage footprint
 
 ## To install it
 ```
